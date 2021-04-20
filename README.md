@@ -25,12 +25,7 @@ Godot, Unity, etc.
 The result of cutting [doctor-doom-sheet.png](examples/doctor-doom-sheet.png)
 into images can be found in [examples/result](examples/result) folder.
 
-The algorithm is pretty straigtforward and can be easily understood from video:
-
-<figure class="video_container">
-  <video controls="true">
-    <source src="examples/doctor-doom-sprites.mp4" type="video/mp4">
-  </video>
-</figure>
+The algorithm is pretty straigtforward and can be easily
+understood from [video](examples/doctor-doom-sprites.mp4).
 
 **Caution!** The script does not handle disjoint sprites with many particles.
