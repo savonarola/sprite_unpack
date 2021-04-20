@@ -1,5 +1,7 @@
 # Sprite unpack
 
+[![CI](https://github.com/savonarola/sprite_unpack/actions/workflows/CI.yml/badge.svg)](https://github.com/savonarola/sprite_unpack/actions/workflows/CI.yml)
+
 ## Description
 
 Utility script for cutting sprite sheets into sprite images. See examples section.
