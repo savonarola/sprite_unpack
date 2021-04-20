@@ -26,6 +26,8 @@ The result of cutting [doctor-doom-sheet.png](examples/doctor-doom-sheet.png)
 into images can be found in [examples/result](examples/result) folder.
 
 The algorithm is pretty straigtforward and can be easily
-understood from [video](examples/doctor-doom-sprites.mp4).
+understood from the following recording:
+
+![Algo](examples/doctor-doom-sprites.gif).
 
 **Caution!** The script does not handle disjoint sprites with many particles.
