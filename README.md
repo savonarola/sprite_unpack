@@ -12,6 +12,10 @@ Utility script for cutting sprite sheets into sprite images. See examples sectio
 pip install sprite-unpack
 ```
 
+## Requirements
+
+Python >= 3.9
+
 ## Usage
 
 ```bash
