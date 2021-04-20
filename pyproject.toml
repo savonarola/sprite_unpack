@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sprite-unpack"
-version = "0.1.0"
+version = "0.1.1"
 description = "Tool for cutting spritesheets into seperate images for importing into Godot, Unity, etc."
 authors = ["Ilya Averyanov <av@rubybox.ru>"]
 keywords = []
