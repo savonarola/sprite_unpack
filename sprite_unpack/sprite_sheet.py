@@ -1,3 +1,4 @@
+from itertools import count
 from pathlib import Path
 from typing import BinaryIO, Optional, Tuple
 
@@ -11,10 +12,7 @@ class FileIds:
         self.basename = Path(filename).stem
 
     def ids(self):
-        n = 0
-        while True:
-            yield f"{self.basename}_{n:03}"
-            n += 1
+        yield from (f"{self.basename}_{n:03}" for n in count())
 
 
 class SpriteSheet:
